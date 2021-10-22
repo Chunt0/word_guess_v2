@@ -5,7 +5,7 @@ In this updated version we now have the game modes created as classes!
 
 Give it a whirl! 
 
-You may need to go into the file "gameFunctions.py" and change the path of the file to match your system.
+You will need to go into the file "gameFunctions.py" and change the path of the file to match your system.
 This should be located on line 6 of that file.
 
 
